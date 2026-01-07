@@ -6,6 +6,7 @@
 
 <p align="center">
   <strong>Launch your tech career with real projects, expert mentorship, and industry-recognized certification</strong>
+  < upadated on 07 january 2026 by Bhagyashri ></upadated>
 </p>
 
 
@@ -129,5 +130,6 @@
 <p align="center">
   Made with ❤️ by CivoraX Team
 </p>
+
 
 
