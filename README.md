@@ -7,7 +7,8 @@
 <p align="center">
   <strong>Launch your tech career with real projects, expert mentorship, and industry-recognized certification</strong>
 </p>
-
+## Project Update
+Today I started working on this Project and upadated the documentation.
 
 
 <p align="center">
@@ -129,5 +130,6 @@
 <p align="center">
   Made with ❤️ by CivoraX Team
 </p>
+
 
 
