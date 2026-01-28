@@ -129,5 +129,22 @@
 <p align="center">
   Made with ❤️ by CivoraX Team
 </p>
+# Society360 – Smart Residential Management System
+
+Society360 is a smart residential management system designed to digitally manage society activities in a simple and efficient way.
+
+## Features
+- Resident information management
+- Society communication support
+- Simple and user-friendly interface
+
+## Technology Used
+- HTML
+- CSS
+
+## Internship
+This project was developed during the Civora Nexus Internship as a learning-based project.
+
+
 
 
