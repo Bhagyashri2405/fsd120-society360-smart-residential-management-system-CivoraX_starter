@@ -49,3 +49,23 @@ p, li {
 ul {
     margin-left: 20px;
 }
+header {
+    background-color: #ffffff;
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+}
+
+header p {
+    margin: 5px 0 0;
+    font-size: 16px;
+    color: #666;
+}
+
+footer {
+    background-color: #ffffff;
+    padding: 15px;
+    margin-top: 30px;
+    border-top: 1px solid #ddd;
+    text-align: center;
+}
